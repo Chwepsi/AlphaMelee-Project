@@ -1,0 +1,6 @@
+py-slippi==1.6.0
+numpy
+pandas
+torch
+tqdm
+pytest
